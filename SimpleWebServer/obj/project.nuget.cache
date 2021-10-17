@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DSnCk5XIApzFVFOBOs/heh2x5+f40SBaV0oB0fbwDu7UquO6e92QklvJ7Iju/zxx3yYnKBTsAYDFqBK/xvtR5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Мережеве програмування\\SimpleWebServer\\SimpleWebServer\\SimpleWebServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kilat\\.nuget\\packages\\confluent.kafka\\1.6.3\\confluent.kafka.1.6.3.nupkg.sha512",
+    "C:\\Users\\kilat\\.nuget\\packages\\librdkafka.redist\\1.6.1\\librdkafka.redist.1.6.1.nupkg.sha512",
+    "C:\\Users\\kilat\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\kilat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
